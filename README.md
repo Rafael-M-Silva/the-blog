@@ -13,7 +13,7 @@ Desafio "RocketBlog".
 <br>
 
 <p align="center">
-  <img alt="capa the blog" src=".github/capa.jpg" width="100%">
+  <img alt="capa the blog" src=".github/capa.svg" width="100%">
 </p>
 
 
