@@ -13,8 +13,14 @@
     box-sizing: border-box;
 }
 
+
 body{
     background-color: var(--color-bg-font);
+}
+
+.fa-sharp{
+    display: none;
+    color: white;
 }
 
 .home{
@@ -206,6 +212,9 @@ main{
 .card img{
     margin-bottom: 15.97px;
 }
+
+
+
 
 
 
