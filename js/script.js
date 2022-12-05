@@ -3,4 +3,5 @@ let dropMenu = document.querySelector("ul")
 
 menuHamb.addEventListener("click", ()=>{
     dropMenu.classList.toggle("menu-drop")
+    menuHamb.classList.toggle("fa-x")
 })
